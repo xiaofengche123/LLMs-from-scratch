@@ -55,17 +55,18 @@ python ch06/01_main-chapter-code/gpt_class_finetune.py
 
 <br>
 
-## 📊 我的训练结果
-指标	结果
-模型参数量	1.24 亿 (124M)
-训练时长	约 2 小时
-最终损失	2.34
-生成效果	能够生成连贯的英文句子
+## 我的训练结果
 
-<br>
+| 指标 | 结果 |
+| --- | --- |
+| 模型参数量 | 1.24 亿 (124M) |
+| 训练时长 | 约 2 小时 |
+| 最终损失 | 2.34 |
+| 生成效果 | 能够生成连贯的英文句子 |
 
-## 📂 项目结构
-text
+## 项目结构
+
+```text
 LLMs-from-scratch/
 ├── ch02/              # 文本数据处理
 ├── ch03/              # 多头注意力机制
@@ -79,26 +80,19 @@ LLMs-from-scratch/
 ├── setup/             # 环境配置
 └── *.complete.py      # 各章完整代码
 
-<br>
+## 关于本项目
 
-## 📝 关于本项目
-项目	说明
-作者	xiaofengche123
-时间	2026年3月 - 2026年5月
-目的	深入理解大语言模型底层原理
+| 项目 | 说明 |
+| --- | --- |
+| 作者 | xiaofengche123 |
+| 时间 | 2026年3月 - 2026年5月 |
+| 目的 | 深入理解大语言模型底层原理 |
 
-<br>
+## 参考资源
 
-## 📖 参考资源
-原书：Build a Large Language Model (From Scratch) - Sebastian Raschka
+- 原书：[Build a Large Language Model (From Scratch)](http://mng.bz/orYv) - Sebastian Raschka
+- 原代码库：[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
-原代码库：rasbt/LLMs-from-scratch
+## 许可证
 
-<br>
-
-## 📄 许可证
 Apache License 2.0
-
-text
-
-<br>
