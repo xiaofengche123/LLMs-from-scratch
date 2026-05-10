@@ -52,5 +52,44 @@ python ch05/01_main-chapter-code/gpt_generate.py
 
 # 4. 运行分类微调
 python ch06/01_main-chapter-code/gpt_class_finetune.py
+📊 我的训练结果
+指标	结果
+模型参数量	1.24 亿 (124M)
+训练时长	约 2 小时
+最终损失	2.34
+生成效果	能够生成连贯的英文句子
+
+📂 项目结构
+text
+LLMs-from-scratch/
+├── ch02/              # 文本数据处理
+├── ch03/              # 多头注意力机制
+├── ch04/              # GPT 模型架构
+├── ch05/              # 预训练
+├── ch06/              # 分类微调
+├── ch07/              # 指令微调
+├── appendix-A/        # PyTorch 基础
+├── appendix-D/        # 训练技巧
+├── appendix-E/        # LoRA 微调
+├── setup/             # 环境配置
+└── *.complete.py      # 各章完整代码
+
+📝 关于本项目
+项目	说明
+作者	xiaofengche123
+时间	2026年3月 - 2026年5月
+目的	深入理解大语言模型底层原理
+备注	这不是简单的 fork，而是我逐行学习、注释、验证后的代码实践记录
+
+📖 参考资源
+原书：Build a Large Language Model (From Scratch) - Sebastian Raschka
+
+原代码库：rasbt/LLMs-from-scratch
+
+
+📄 许可证
+Apache License 2.0
+
+text
 
 
