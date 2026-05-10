@@ -52,7 +52,3 @@ python ch05/01_main-chapter-code/gpt_generate.py
 
 # 4. 运行分类微调
 python ch06/01_main-chapter-code/gpt_class_finetune.py
-
-
-
-
