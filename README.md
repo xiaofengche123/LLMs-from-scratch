@@ -1,4 +1,4 @@
-# 从零实现大语言模型 - 我的学习实践
+# 从零实现大语言模型 - 学习实践
 
 本项目记录了我**从零开发、预训练和微调 GPT 模型**的个人学习过程，基于 Sebastian Raschka 的著作 [Build a Large Language Model (From Scratch)](http://mng.bz/orYv)。
 
