@@ -1,3 +1,5 @@
+> 本仓库是对 Sebastian Raschka《Build a Large Language Model (From Scratch)》的个人学习复现，原始代码版权归原作者。本仓库只记录我完成的练习、实验结果和修改。
+
 # 从零实现大语言模型：学习复现与实验记录
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
